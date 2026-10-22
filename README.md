@@ -1,4 +1,4 @@
-# 🍲 Receitório de Receitas
+# 🍲 Repertório de Receitas
 
 Projeto acadêmico de um site de receitas culinárias feito com HTML, CSS, JavaScript e JSON Server.
 
